@@ -54,8 +54,12 @@ I mainly work with **PHP (Symfony / Laravel)** and **React**, and I enjoy explor
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=flrntvl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrntvl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150"/>
+    <img src="https://streak-stats.demolab.com?user=flrntvl&theme=transparent&hide_border=true&background=0D1117&stroke=30363D&ring=A5F3FC&fire=7DD3FC&currStreakLabel=BAE6FD&sideLabels=94A3B8&dates=94A3B8&sideNums=E0F2FE" height="165"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=flrntvl&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrntvl&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 </div>
 
 ## 🌐 Connect with me

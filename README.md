@@ -58,7 +58,7 @@ I mainly work with **PHP (Symfony / Laravel)** and **React**, and I enjoy explor
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=flrntvl&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=flrntvl&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="165"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flrntvl&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 </div>
 

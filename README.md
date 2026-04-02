@@ -29,6 +29,25 @@ I mainly work with **PHP (Symfony / Laravel)** and **React**, and I enjoy explor
 }
 ```
 
+## 🧠 Engineering approach
+
+- I focus on writing **simple, readable and maintainable code** over clever solutions  
+- I value **robust architectures** and clear domain modeling  
+- I'm actively exploring **Domain-Driven Design (DDD)** and **Test-Driven Development (TDD)**  
+- I aim to build software that is **easy to understand, test and evolve**
+
+## 📚 Continuous learning
+
+- I continuously explore **new technologies and paradigms** to improve how I build software  
+- I enjoy experimenting with **new tools, workflows and development approaches**  
+- Currently deepening my understanding of **software design practices and engineering fundamentals**
+
+## ⚙️ Infrastructure & DevOps
+
+- Interested in **infrastructure, networking and deployment workflows**  
+- Learning more about **DevOps practices** and how applications run in production  
+- Working with tools like **Docker** and exploring **system-level concepts** (networking, environments, scalability)
+
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
@@ -43,13 +62,14 @@ I mainly work with **PHP (Symfony / Laravel)** and **React**, and I enjoy explor
   <img src="https://skillicons.dev/icons?i=docker,vscode,phpstorm,windows,linux,apple" />
 </a>
 
-
 ## 🔭 Currently
 
 - ⚙️ Building modern web applications with **Symfony**, **Laravel** and **React**
 - 🧠 Learning **Ruby** and **React Native**
 - 🤖 Exploring **AI-assisted development**
 - 🛠️ Experimenting with **Agentic workflows**
+- 🏗️ Improving my skills in **software architecture, DDD and testing practices**
+- 🌐 Learning **infrastructure, networking and DevOps fundamentals**
 
 ## 📊 GitHub Stats
 

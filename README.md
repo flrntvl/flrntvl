@@ -31,6 +31,7 @@ me.hello
 - ⚙️ Building modern web applications with **Symfony**, **Laravel** and **React**
 - 🤖 Exploring **AI-assisted development** and **Agentic workflows**
 - 🏗️ Deepening my knowledge of **software design, DDD and testing practices**
+- 🧩 Sharpening problem-solving skills on **LeetCode**
 
 ## 🧰 Tech Stack
 
@@ -84,5 +85,8 @@ me.hello
     </a>
     <a href="https://x.com/flrntvl" target="_blank">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://leetcode.com/u/flrntvl/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
 </p>

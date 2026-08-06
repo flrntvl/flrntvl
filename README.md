@@ -80,6 +80,9 @@ me.hello
 ## 🌐 Connect with me
 
 <p align="left">
+    <a href="https://flrntvl.dev" target="_blank">
+        <img src="https://img.shields.io/badge/My_Blog-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz4KPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz4KPHBhdGggZD0iTTEyIDJhMTUgMTUgMCAwIDEgMCAyMGExNSAxNSAwIDAgMSAwLTIweiIvPgo8L3N2Zz4K" alt="My Blog" />
+    </a>
     <a href="https://linkedin.com/in/florent-val" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
